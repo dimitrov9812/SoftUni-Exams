@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\EasterGift\bin\Debug\EasterGift.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\EasterGift\bin\Debug\EasterGift.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\EasterGift\bin\Debug\EasterGift.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\EasterGift\obj\Debug\EasterGift.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\EasterGift\obj\Debug\EasterGift.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\EasterGift\obj\Debug\EasterGift.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\EasterGift\obj\Debug\EasterGift.pdb

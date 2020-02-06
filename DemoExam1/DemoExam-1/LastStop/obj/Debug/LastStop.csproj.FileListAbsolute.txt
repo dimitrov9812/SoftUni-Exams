@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\LastStop\bin\Debug\LastStop.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\LastStop\bin\Debug\LastStop.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\LastStop\bin\Debug\LastStop.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\LastStop\obj\Debug\LastStop.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\LastStop\obj\Debug\LastStop.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\LastStop\obj\Debug\LastStop.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\LastStop\obj\Debug\LastStop.pdb

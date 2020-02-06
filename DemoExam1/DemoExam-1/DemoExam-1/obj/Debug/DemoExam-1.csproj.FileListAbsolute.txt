@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\DemoExam-1\bin\Debug\DemoExam-1.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\DemoExam-1\bin\Debug\DemoExam-1.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\DemoExam-1\bin\Debug\DemoExam-1.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\DemoExam-1\obj\Debug\DemoExam-1.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\DemoExam-1\obj\Debug\DemoExam-1.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\DemoExam-1\obj\Debug\DemoExam-1.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam1\DemoExam-1\DemoExam-1\obj\Debug\DemoExam-1.pdb

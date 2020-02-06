@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam2\TheHuntingGames\TheFinalQuest\bin\Debug\TheFinalQuest.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam2\TheHuntingGames\TheFinalQuest\bin\Debug\TheFinalQuest.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam2\TheHuntingGames\TheFinalQuest\bin\Debug\TheFinalQuest.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam2\TheHuntingGames\TheFinalQuest\obj\Debug\TheFinalQuest.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam2\TheHuntingGames\TheFinalQuest\obj\Debug\TheFinalQuest.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam2\TheHuntingGames\TheFinalQuest\obj\Debug\TheFinalQuest.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoExam2\TheHuntingGames\TheFinalQuest\obj\Debug\TheFinalQuest.csprojAssemblyReference.cache
